@@ -1,0 +1,22 @@
+if SHIELD_side_b_R
+
+config ZMK_KEYBOARD_NAME
+    default "side_b_R"
+
+config ZMK_SPLIT
+    default y
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_side_b_L
+
+config ZMK_KEYBOARD_NAME
+    default "side_b_L"
+
+config ZMK_SPLIT
+    default y
+
+endif
