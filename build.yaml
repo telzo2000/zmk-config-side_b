@@ -19,10 +19,10 @@
 ---
 include:
  - board: seeeduino_xiao_ble
-   shield: cool642tb_R
+   shield: side_b_R
    snippet: studio-rpc-usb-uart
  - board: seeeduino_xiao_ble
-   shield: cool642tb_L
+   shield: side_b_L
  - board: seeeduino_xiao_ble
    shield: settings_reset
 
